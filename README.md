@@ -1,2 +1,61 @@
 # Netgineer
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=;, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <center><img src="img/logo.jpg" alt="Ejemplo de imagen" width="500px" height="500px" title="imagen"></center>
+    <center>
+    
+    <h2 id="Menu"><font size=8><p style="color: #4EF168">MENU</h2></p></font>
+    <ul type="Square"></ul>
+    <br>
+    <li><a href="#productos"><img src="img/productos1.png"width="200px" height="200px">Productos</a></li> 
+    <br>
+    <li> <a href="#servicios"><img src="img/images.png"width="200px" height="200px">Servicios</a> </li> 
+    <br>
+    </ul>
+    <a href="https://www.oasiscom.com/?utm_source=Google-ads&utm_medium=1&utm_campaign=100067&utm_content=Anuncio-erp-adaptable-2&gad_source=1&gclid=CjwKCAjw9cCyBhBzEiwAJTUWNVNGGqALrNlgcIvDxJI-QmrO-OpSTP6ewyTlmIyKv7hsiSjgIc6i8RoCT7EQAvD_BwE"><img src="img/oasis.jpg"width="200px" height="200px">Otras paginas de desarrollo</a>
+    </center>
+    </font>
+   <font size=8> <h2 id="inicio"><p style="color: #87CEEB">INICIO</h2></font></p>
+    <p><font face="Comic Sans MS,arial,verdana" font size=6>Ofrecemos servicios integrales para tu empresa. Identificamos las fallas y conectamos los puntos entre tu negocio y tu estrategia digital.</p></font>
+    <center><img src="img/2.jpg" alt="Ejemplo de imagen" width="500px" height="500px" title="imagen"></center>
+    <font size=8>
+    <h2 id="productos"><p style="color: #CA33FF">PRODUCTOS</h2></p></font>
+    <ul type="Square">
+        <b><li><font face="Comic Sans MS,arial,verdana" font size=6>Evolución de ecosistemas:</b>Ayudamos a las empresas a evolucionar y ejecutar sus aplicaciones de forma eficiente</li></font>
+        <b><li><font face="Comic Sans MS,arial,verdana" font size=6>Soluciones multiexperiencia:</b> Deleitamos a las personas usuarias con experiencias interconectadas a través de aplicaciones web, móviles, interfaces conversacionales, digital twin, IoT y AR.</li></font>
+       <b> <li><font face="Comic Sans MS,arial,verdana" font size=6>Soluciones Low-Code:</b>Aumentamos la productividad y la calidad, reduciendo los requisitos de cualificación de los desarrolladores.</li></font>
+    </ul>
+    <center><img src="img/productos.png" alt="Ejemplo de imagen" width="500px" height="500px" title="imagen"></center>
+    <p></p>
+    <font size=8>
+    <h2 id="servicios"><p style="color: #FF33DD">SERVICIOS</h2></p></font>
+    <center><img src="img/3.png" alt="Ejemplo de imagen" width="500px" height="300px" title="imagen"></center>
+    <dl>
+        <b><dt><font face="Comic Sans MS,arial,verdana" font size=6>Ciberseguridad y privacidad</b> </dt><dd>A medida que la tecnologia evoluciona rapidamente, las empresas se enfrentan al reto de convertir el riesgo en una ventaja. Nuestras soluciones de ciberseguridad y privacidad de datos de ultima generacion protegen cada capa, para desbloquear nuevas oportunidades</dd>
+        <br>
+        <br>
+        <b><dt><font face="Comic Sans MS,arial,verdana" font size=6>Diseño y desarrollo personalizado de cualquier tipo de aplicación (WEB, servidor-cliente, tiempo-real, móvil y mucho más)</b> </dt><dd> Consiste en implementar sus necesidades, objetivos o ideas en Internet utilizando las tecnologías más idóneas según su proyecto</dd>
+        <br>
+        <br>
+        <b> <dt><font face="Comic Sans MS,arial,verdana" font size=6>Reingeniería de sistemas</b> </dt><dd>Viajar hacia atrás durante todo el ciclo de vida de desarrollo y producción de un software concreto para estudiar su código fuente. De esta forma, será posible conocer y documentar todo lo relativo a la arquitectura del programa, cómo funciona, sus estructuras y rutinas internas.</dd>
+        <br>
+        <br>
+        <b> <dt><font face="Comic Sans MS,arial,verdana" font size=6>Verificación y validación de software</b> </dt><dd> La validación es una prueba de que cumple con los requisitos y de que su producto es confiable, seguro y protegido para proteger a sus clientes.
+
+            La verificación de software garantiza que los equipos creen el producto de acuerdo con los procesos y estándares propios de su organización y los requeridos por el mercado. </dd>
+    </dl>
+    <font size=8>
+    <h2><p style="color: #A761FA">CURSOS, DIPLOMADOS, TALLERES Y CLASES</h2></p></font>
+    <center>
+    <p>Como empresa tenemos una lista de cursos en los que los empleados estan en constante innovacion para tener las mejores innovaciones dentro del mercado</p>
+    <a href="https://www.udemy.com/es/courses/development/software-engineering/?p=2"><img src="img/5.png" alt="Ejemplo de imagen" width="600px" height="300px" title="imagen"></center></a>
+    <li> <a href="#inicio"><img src="img/inicio.jpg"width="200px" height="200px"><font face="Comic Sans MS,arial,verdana" font size=6>Inicio</a></li>
+</body>
+</html>
