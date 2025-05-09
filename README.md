@@ -8,7 +8,6 @@
     <title>Document</title>
 </head>
 <body>
-    <center><img src="img/logo.jpg" alt="Ejemplo de imagen" width="500px" height="500px" title="imagen"></center>
     <center>
     
     <h2 id="Menu"><font size=8><p style="color: #4EF168">MENU</h2></p></font>
@@ -24,7 +23,6 @@
     </font>
    <font size=8> <h2 id="inicio"><p style="color: #87CEEB">INICIO</h2></font></p>
     <p><font face="Comic Sans MS,arial,verdana" font size=6>Ofrecemos servicios integrales para tu empresa. Identificamos las fallas y conectamos los puntos entre tu negocio y tu estrategia digital.</p></font>
-    <center><img src="img/2.jpg" alt="Ejemplo de imagen" width="500px" height="500px" title="imagen"></center>
     <font size=8>
     <h2 id="productos"><p style="color: #CA33FF">PRODUCTOS</h2></p></font>
     <ul type="Square">
